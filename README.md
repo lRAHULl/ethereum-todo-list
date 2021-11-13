@@ -1,6 +1,6 @@
-# ETHEREUM TODO LIST
+# Ethereum TODO List
 
-Todolist application built on top ethereum blockchain network.
+Todolist application built on top of ethereum blockchain network.
 
 ## Getting started
 
